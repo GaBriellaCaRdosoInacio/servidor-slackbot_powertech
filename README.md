@@ -1,10 +1,7 @@
 # servidor-slackbot_powertech
-Repositório_teste
 
-O servidor funcionou mas não foi realizada a conexão com o slack para funcionar como slackbot,
-houve realização de logs mas não foi possível estabelecer essa conexão!
+O servidor funcionou, mas não foi realizado a conexão com o Slack para funcionar como Slackbot. Houve realização de logs, mas não foi possível estabelecer essa conexão!
 
-Me baseei no seguinte video: 
-https://www.youtube.com/watch?v=pw5wah2isAM
+Baseei-me no próximo vídeo: https://www.youtube.com/watch?v=pw5wah2isAM
 
-utilizei localtunnel invés de ngrok  
+Utilizei localtunnel em vez de ngrok  
